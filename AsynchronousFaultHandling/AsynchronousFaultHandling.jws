@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <jws:workspace xmlns:jws="http://xmlns.oracle.com/ide/project">
-   <value n="application-package-prefix" v="nl.amis.soa.async"/>
-   <value n="appTemplateId" v="SOAApplicationTemplate"/>
+   <value n="application-package-prefix1" v="nl.amis.soa.async"/>
+   <value n="appTemplateId" v="SOAApplicationTemplate1"/>
    <hash n="component-versions">
       <value n="oracle.adf.share.dt.migration.jps.JaznCredStoreMigratorHelper" v="11.1.1.1.0"/>
       <value n="oracle.adfdt.controller.adfc.source.migration.SavePointDataSourceForWLSMigrator" v="11.1.1.1.0"/>
